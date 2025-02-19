@@ -1,9 +1,9 @@
-Some code used for managing files.  
+Some code is used for managing files.  
 
 merge_pdfs.py  
 
-Used to merge pdfs into one large pdf file  
+Used to merge PDFs into one large PDF file  
 
 folder_splitter.py  
 
-used to split files into a specified folders of specfied size  
+used to split files into specified folders of specified size  
